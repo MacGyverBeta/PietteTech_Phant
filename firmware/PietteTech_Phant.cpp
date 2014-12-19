@@ -39,7 +39,7 @@
 
 #include "PietteTech_Phant.h"
 
-//#define SERIAL_DEBUG  1		// 1 = timing, 2 = sensor
+#define SERIAL_DEBUG  1		// 1 = timing, 2 = sensor
 
 #if defined(SERIAL_DEBUG)
 #define D(x) x
